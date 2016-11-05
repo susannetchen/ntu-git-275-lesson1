@@ -3,6 +3,8 @@
 #Date
 ##11/05/2016
 #Github Username
-##susannetchen
+##**susannetchen**
 #My Favorite Programming Language
-##none
+##1. c
+##2. c++
+##3. javascript
