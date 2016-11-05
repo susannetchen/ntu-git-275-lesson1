@@ -1,9 +1,9 @@
 #Name
 **Susan Chen**
 #Date
-##11/05/2016
+11/05/2016
 #Github Username
-##susannetchen
+**susannetchen**
 #My Favorite Programming Language
 ##1. c
 ##2. c++
