@@ -5,6 +5,6 @@
 #Github Username
 **susannetchen**
 #My Favorite Programming Language
-##1. c
-##2. c++
-##3. javascript
+1. c
+2. c++
+3. javascript
